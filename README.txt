@@ -2,7 +2,7 @@ This is a program that resembles malware and is not actually malware itself.
 It does nothing malicious. For Educational Purposes Only.
 
 Command to Compile final.c into Final.exe:
-gcc final.c -o final.exe -lws2_32
+gcc Sean-Malware.c -o Sean.malware.exe -lws2_32
 
 Flags to provide to .exe file in order for the program to demostrate different
 capabilities:
